@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Agasya Sandilya Devarasetty</h1>
+<h1 align="center">Hi 👋, I'm Agasya Devarasetty</h1>
 <h3 align="center">Data Engineer | Azure · Databricks · Spark · Kafka</h3>
 
 ---
 
-👋 Hello! I'm Agasya Sandilya Devarasetty, a Data Engineer with a deep passion for building data systems that are fast, reliable, and actually useful. I find real satisfaction in taking raw, messy data and turning it into something clean and meaningful and that excitement has only grown stronger with every pipeline I've shipped.
+👋 Hello! I'm Agasya Devarasetty, a Data Engineer with a deep passion for building data systems that are fast, reliable, and actually useful. I find real satisfaction in taking raw, messy data and turning it into something clean and meaningful and that excitement has only grown stronger with every pipeline I've shipped.
 
  **What I Do**
 

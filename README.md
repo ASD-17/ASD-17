@@ -9,9 +9,13 @@
 
 With around 4+ years of experience in the data engineering space, I have worked on enterprise-scale data pipelines, legacy-to-cloud migrations, and real-time streaming systems. I love the challenge of designing solutions that hold up under pressure not just in a demo, but in production. From Medallion Architecture on Azure Databricks to real-time anomaly detection with Kafka and Spark Structured Streaming, I enjoy building systems end-to-end and owning the outcome.
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
+
  **Why Data?**
 
-What draws me to data engineering is the belief that every dataset has a story worth telling and the right pipeline is what lets that story surface. I enjoy the craft of it: the schema decisions, the partitioning strategies, the tradeoffs between latency and throughput. I am genuinely curious about distributed systems and always looking to go deeper.
+What draws me to data engineering is the belief that every dataset has a story worth telling and the right pipeline is what lets that story surface. I enjoy the craft of it: the schema decisions, the partitioning strategies, the tradeoffs between latency and throughput. I am genuinely curious about distributed systems and always looking to go deeper
+
 
  **My Toolbox**
 
